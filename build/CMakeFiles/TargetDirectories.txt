@@ -1,0 +1,3 @@
+/Users/raunitsingh/Desktop/Projects/quine_mccluskey_minimizer/build/CMakeFiles/qm.dir
+/Users/raunitsingh/Desktop/Projects/quine_mccluskey_minimizer/build/CMakeFiles/edit_cache.dir
+/Users/raunitsingh/Desktop/Projects/quine_mccluskey_minimizer/build/CMakeFiles/rebuild_cache.dir
